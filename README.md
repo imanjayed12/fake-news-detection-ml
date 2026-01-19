@@ -1,7 +1,7 @@
-# Fake News Detection using TF-IDF and RSS Feeds
+# Fake News Detection using Machine Learning
 
 ## Project Description
-This project is a news verification system developed using Natural Language Processing techniques.  
+This project is a news detection system developed using Natural Language Processing techniques.  
 It analyzes news titles using RSS feed data and TF-IDF similarity, combined with rule-based decision logic, to classify news as **Fake**, **Neutral**, or **Well-sourced**.
 
 Unlike traditional machine learning classifiers, this system does not rely on model training. Instead, it verifies news credibility based on similarity with trusted news sources, source domain signals, and content recency.
